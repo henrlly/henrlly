@@ -10,7 +10,7 @@ I'm always looking to be a part of interesting projects. Feel free to reach out!
   - [Esslay](https://github.com/henrlly/Esslay): An essay writing tool for Singapore students (**2nd Place**, Cloudhacks 2023, Singapore)
 
 ### Personal Projects
-  - [2048Solver](https://github.com/henrlly/2048Solver): 2048 solver in a Flask web app, with several optimizations (multithreading, bitboard, transposition table...)
+  - [2048Solver](https://github.com/henrlly/2048Solver): 2048 web app and solver with several optimizations (multithreading, bitboard, transposition table...)
   - [SnakeAI](https://github.com/henrlly/SnakeAI): Single-agent Snake AI using RL (DQN, PPO, A2C) and search algorithms
   - [MinesweeperAI](https://github.com/henrlly/MinesweeperAI): Minesweeper AI with heuristic and Constraint Satisfaction Problem (CSP) search algorithms, interfaces with minesweeperonline.com via OpenCV
   - [NeuralNetFromScratch](https://github.com/henrlly/NeuralNetFromScratch): Annotated Deep Neural Net components implemented from scratch with NumPy
