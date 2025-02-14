@@ -16,3 +16,6 @@ I'm always looking to be a part of interesting projects. Feel free to reach out!
   - [NeuralNetFromScratch](https://github.com/henrlly/NeuralNetFromScratch): Annotated Deep Neural Net components implemented from scratch with NumPy
   - [ReviewScraper](https://github.com/henrlly/ReviewScraper): Website that scrapes Google for item reviews and runs sentiment analysis
 
+### Contact
+
+My email is henrlly [at] icloud [dot] com
