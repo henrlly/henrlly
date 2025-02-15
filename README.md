@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Henry
 
-I'm an incoming computer science undergraduate at NUS.  
+I'm an incoming computer science undergraduate at the National University of Singapore (NUS).  
 Previously, I've participated in CTFs, hackathons, and competitive programming competitions.  
 I'm always looking to be a part of interesting projects. Feel free to reach out!  
 
