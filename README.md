@@ -7,7 +7,7 @@ I'm always looking to be a part of interesting projects. Feel free to reach out!
 ### Hackathon Projects
   - [YourGuide](https://github.com/henrlly/YourGuide): Audio Guide for the Visually Impaired (**Winner**, National AI Student Challenge 2022, AI Singapore, Singapore)
   - [CultuRealm](https://github.com/henrlly/CultuRealm): Gamified web app for intercultural learning (**Sub-Theme Winner**, Splash Awards 2023, Singapore Computer Society, Singapore)
-  - [Esslay](https://github.com/henrlly/Esslay): An essay writing tool for Singapore students (**2nd Place**, Cloudhacks 2023, Singapore)
+  - [Esslay](https://github.com/henrlly/Esslay): Essay writing tool for Singapore students (**2nd Place**, Cloudhacks 2023, Singapore)
 
 ### Personal Projects
   - [2048Solver](https://github.com/henrlly/2048Solver): 2048 web app and solver with several optimizations (multithreading, bitboard, transposition table...)
