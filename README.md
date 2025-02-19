@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Henry
 
 I'm an incoming computer science undergraduate at the National University of Singapore (NUS).  
-In my free time, I do CTFs, hackathons, and competitive programming.  
+In my free time, I like to build new projects and do competitive programming.  
+Previously, I used to do CTFs and hackathons.
 I'm always looking to be a part of interesting projects. Feel free to reach out!  
 
 ### Hackathon Projects
