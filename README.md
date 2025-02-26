@@ -1,9 +1,15 @@
-### Hi there 👋 I'm Henry
+### Hi, I'm Henry! 👋
 
-I'm an incoming computer science undergraduate at the National University of Singapore (NUS).  
-In my free time, I like to build new projects and do competitive programming.  
-Previously, I used to do CTFs and hackathons.
-I'm always looking to be a part of interesting projects. Feel free to reach out!  
+I’m an incoming computer science undergraduate at the National University of Singapore (NUS).  
+
+I enjoy learning new things, building new projects and doing competitive programming.  
+Previously, I used to do CTFs and hackathons.  
+
+My main interests are High-Performance Computing (HPC), distributed systems, optimization and CS theory, but I’m broadly interested in anything related to CS.  
+
+I also write a [blog](henrlly.pages.dev/blog).
+
+Feel free to reach out!  
 
 ### Hackathon Projects
   - [YourGuide](https://github.com/henrlly/YourGuide): Audio Guide for the Visually Impaired, featuring 3D biaural audio for navigation  
