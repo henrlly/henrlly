@@ -7,7 +7,7 @@ Previously, I used to do CTFs and hackathons.
 
 My main interests are High-Performance Computing (HPC), distributed systems, optimization and CS theory, but I’m broadly interested in anything related to CS.  
 
-I also write a [blog](henrlly.pages.dev/blog).
+I also write a [blog](https://henrlly.pages.dev/blog).
 
 Feel free to reach out!  
 
