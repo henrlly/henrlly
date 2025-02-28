@@ -12,7 +12,7 @@ I also write a [blog](https://henrlly.pages.dev/blog/).
 Feel free to reach out!  
 
 ### Hackathon Projects
-  - [YourGuide](https://github.com/henrlly/YourGuide): Audio Guide for the Visually Impaired, featuring 3D biaural audio for navigation  
+  - [YourGuide](https://github.com/henrlly/YourGuide): Audio Guide for the Visually Impaired, featuring 3D binaural audio for navigation  
     (**Winner**, National AI Student Challenge 2022, AI Singapore, >200 Teams)
   - [CultuRealm](https://github.com/henrlly/CultuRealm): Gamified web app for intercultural learning, featuring interative stories and quizzes  
     (**Sub-Theme Winner**, Splash Awards 2023, Singapore Computer Society, >100 Teams)
