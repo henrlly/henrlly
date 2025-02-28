@@ -20,11 +20,11 @@ Feel free to reach out!
     (**2nd Place**, Cloudhacks 2023, >50 Teams)
 
 ### Personal Projects
-  - [2048Solver](https://github.com/henrlly/2048Solver): 2048 web app and solver with several optimizations (multithreading, bitboard, transposition table...)
-  - [SnakeAI](https://github.com/henrlly/SnakeAI): Single-agent Snake AI using RL (DQN, PPO, A2C) and search algorithms
-  - [MinesweeperAI](https://github.com/henrlly/MinesweeperAI): Minesweeper AI with heuristic and Constraint Satisfaction Problem (CSP) search algorithms, interfaces with minesweeperonline.com via OpenCV
-  - [NeuralNetFromScratch](https://github.com/henrlly/NeuralNetFromScratch): Annotated Deep Neural Net components implemented from scratch with NumPy
-  - [ReviewScraper](https://github.com/henrlly/ReviewScraper): Website that scrapes Google for item reviews and runs sentiment analysis
+  - [2048 Solver](https://github.com/henrlly/2048Solver): 2048 web app and solver with several optimizations (multithreading, bitboard, transposition table...)
+  - [Snake AI](https://github.com/henrlly/SnakeAI): Single-agent Snake AI using RL (DQN, PPO, A2C) and search algorithms
+  - [Minesweeper AI](https://github.com/henrlly/MinesweeperAI): Minesweeper AI with heuristic and Constraint Satisfaction Problem (CSP) search algorithms, interfaces with minesweeperonline.com via OpenCV
+  - [Neural Net From Scratch](https://github.com/henrlly/NeuralNetFromScratch): Annotated Deep Neural Net components implemented from scratch with NumPy
+  - [Review Scraper](https://github.com/henrlly/ReviewScraper): Website that scrapes Google for item reviews and runs sentiment analysis
 
 ### Contact
 
