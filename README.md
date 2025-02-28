@@ -7,7 +7,9 @@ Previously, I used to do Capture-The-Flags (CTFs) and Hackathons.
 
 My main interests are High-Performance Computing (HPC), distributed systems, optimization and CS theory, but I’m broadly interested in anything related to CS.  
 
-I also write a [blog](https://henrlly.pages.dev/blog/).
+I also write a [blog](https://henrlly.pages.dev/blog/).  
+
+I am currently looking for work from April 2025 to August 2025. My resume is [here](https://raw.githubusercontent.com/henrlly/henrlly/refs/heads/main/resume.pdf).  
 
 Feel free to reach out!  
 
