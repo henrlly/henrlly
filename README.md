@@ -1,9 +1,9 @@
 ### Hi, I'm Henry! 👋
 
-I’m an incoming computer science undergraduate at the National University of Singapore (NUS).  
+I’m an incoming Computer Science undergraduate at the National University of Singapore (NUS).  
 
 I enjoy learning new things, building new projects and doing competitive programming.  
-Previously, I used to do CTFs and hackathons.  
+Previously, I used to do Capture-The-Flags (CTFs) and Hackathons.  
 
 My main interests are High-Performance Computing (HPC), distributed systems, optimization and CS theory, but I’m broadly interested in anything related to CS.  
 
