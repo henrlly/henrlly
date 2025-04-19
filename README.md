@@ -9,8 +9,6 @@ My main interests are High-Performance Computing (HPC), distributed systems, opt
 
 I also write a [blog](https://henrlly.pages.dev/blog/).  
 
-I am currently looking for work from April 2025 to August 2025. My resume is [here](https://henrlly.pages.dev/resume.pdf).  
-
 Feel free to reach out!  
 
 ### Hackathon Projects
