@@ -1,6 +1,6 @@
 ### Hi, I'm Henry! 👋
 
-I’m an incoming Computer Science undergraduate at the National University of Singapore (NUS).  
+I’m a Computer Science undergraduate at the National University of Singapore (NUS).  
 
 I enjoy [learning new things](https://henrlly.com/blog/course-reviews), building new projects and doing competitive programming.  
 Previously, I used to do Capture-The-Flags (CTFs) and Hackathons.  
